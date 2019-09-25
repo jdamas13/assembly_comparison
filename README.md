@@ -9,10 +9,10 @@ E.g., for comparison of intermediate assemblies from an the assembly pipeline, r
 perl assembly_comparison.pl <mashmap.out> <reference lengths> <resolution>
 
 # Input:
- - <mashmap.out>
+ - <mashmap.out> \n
    Output file from Mashmap2 alignment.
    
- - <reference lenghts>
+ - <reference lenghts> \n
    Lenghts of reference chromosomes, scaffolds or contigs.
    Format: ID Length
 

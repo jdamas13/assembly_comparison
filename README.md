@@ -36,3 +36,6 @@ List of breaks introduced in reference where ends are kept free in query.
 
 Summary of number of differences found between reference and query assemblies.
 Reports number of end to end joins, number of inconsistent joins, no of scaffolds involved in free-end breaks and number of breaks where ends are kept free.
+
+![image](https://github.com/jdamas13/assembly_comparison/assets/30689196/88bbd50e-9457-42d5-97aa-1acf4e9c11da)
+
